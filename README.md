@@ -22,3 +22,4 @@ npm start
 
 ###Screenshots
   ![Alt text](http://i.imgur.com/fITdM91r.png "Screen1")
+  ![Alt text](http://i.imgur.com/y1rfak3.png "Screen1")
